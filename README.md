@@ -7,7 +7,7 @@ This project investigates whether JEPA-style latent prediction — originally po
 
 ---
 
-## 🔍 Why This Project Exists
+##  Why This Project Exists
 
 Most language models optimize token prediction.
 
@@ -24,7 +24,7 @@ The focus is not just performance — but **understanding representation behavio
 
 ---
 
-## 🧠 Core Contributions
+##  Core Contributions
 
 This repository includes:
 
@@ -42,7 +42,7 @@ This one investigates *why* it works (or fails).
 
 ---
 
-## 🏗 Architecture Overview
+##  Architecture Overview
 
 The training objective:
 
@@ -60,7 +60,7 @@ Loss components:
 
 ---
 
-## 📊 Representation Diagnostics
+##  Representation Diagnostics
 
 A dedicated debug suite generates:
 
@@ -89,7 +89,7 @@ These tools help answer:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 JSN.py # Core JEPA model
 main.py # Training pipeline
@@ -108,7 +108,7 @@ Jsn-linear-probe.py # Linear probing evaluation
 
 ---
 
-## 🏋️ Training
+##  Training
 
 ```bash
 python JSW (4).py
