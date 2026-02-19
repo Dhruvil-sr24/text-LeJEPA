@@ -3,7 +3,7 @@
 
 An experimental implementation of a **Joint Embedding Predictive Architecture (JEPA)** adapted for text, with deep diagnostics for representation collapse, spectral behavior, and embedding geometry.
 
-This project investigates whether JEPA-style latent prediction — originally popularized in vision — can be effectively applied to language.
+This project investigates whether JEPA-style latent prediction - originally popularized in vision - can be effectively applied to language.
 
 ---
 
@@ -20,7 +20,7 @@ Instead of predicting discrete tokens, the model learns to:
 - Predict the embedding of another view
 - Align representations in latent space
 
-The focus is not just performance — but **understanding representation behavior**.
+The focus is not just performance - but **understanding representation behavior**.
 
 ---
 
