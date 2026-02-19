@@ -28,14 +28,14 @@ The focus is not just performance — but **understanding representation behavio
 
 This repository includes:
 
-- ✅ Text-based JEPA implementation
-- ✅ Adaptive Sigma Regularization (anti-collapse mechanism)
-- ✅ Rank-ratio monitoring during training
-- ✅ Full embedding diagnostics suite
-- ✅ Linear probing for downstream evaluation
-- ✅ Spectral analysis (eigenvalues, PCA)
-- ✅ Geometry analysis (t-SNE, cosine similarity)
-- ✅ Dimensional usage analysis
+-  Text-based JEPA implementation
+-  Adaptive Sigma Regularization (anti-collapse mechanism)
+-  Rank-ratio monitoring during training
+-  Full embedding diagnostics suite
+-  Linear probing for downstream evaluation
+-  Spectral analysis (eigenvalues, PCA)
+-  Geometry analysis (t-SNE, cosine similarity)
+-  Dimensional usage analysis
 
 Most open-source JEPA-style projects stop at training.
 This one investigates *why* it works (or fails).
@@ -111,7 +111,7 @@ Jsn-linear-probe.py # Linear probing evaluation
 ##  Training
 
 ```bash
-python JSW (4).py
+python JSN (4).py
 ```
 Includes:
 
