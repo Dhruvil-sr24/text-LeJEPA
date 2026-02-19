@@ -111,7 +111,7 @@ Jsn-linear-probe.py # Linear probing evaluation
 ## 🏋️ Training
 
 ```bash
-python main.py
+python JSW (4).py
 ```
 Includes:
 
